@@ -1,3 +1,5 @@
+#requires selenium, firefox, pyvirtualdisplay, xvfb
+
 from selenium import webdriver
 from pyvirtualdisplay import Display
 
