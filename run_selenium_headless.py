@@ -14,3 +14,4 @@ driver = webdriver.Firefox()
 driver.get(url)
 
 driver.quit()
+display.stop()
