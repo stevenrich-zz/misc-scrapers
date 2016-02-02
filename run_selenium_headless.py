@@ -12,3 +12,5 @@ url = #Enter URL
 
 driver = webdriver.Firefox()
 driver.get(url)
+
+driver.quit()
