@@ -1,4 +1,4 @@
-# misc-scrapers
+# Miscellaneous scrapres
 
 Packages/requirements:
 
