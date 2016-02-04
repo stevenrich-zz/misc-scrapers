@@ -11,6 +11,18 @@ from docx.enum.style import WD_STYLE
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 import datetime
 
+document = Document()
+style = document.styles['Normal']
+font = style.font
+font.name = 'Times New Roman'
+font.size = Pt(12)
+sections = document.sections
+for section in sections:
+section.top_margin = Inches(0.5)
+section.bottom_margin = Inches(0.5)
+section.left_margin = Inches(0.5)
+section.right_margin = Inches(0.5)
+
 document.add_paragraph(file_date)
 document.add_paragraph("")
 document.add_paragraph(dept)
