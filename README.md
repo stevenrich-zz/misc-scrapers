@@ -1,4 +1,4 @@
-# Miscellaneous scrapres
+# Miscellaneous scrapers
 
 Packages/requirements:
 
