@@ -9,3 +9,5 @@ Packages/requirements:
  - [socket](https://docs.python.org/2/library/socket.html)
  - [socks](http://socksipy.sourceforge.net/)
  - [xvfb](https://pypi.python.org/pypi/xvfbwrapper)
+ - [csv](https://docs.python.org/2/library/csv.html)
+ - [docx](https://python-docx.readthedocs.org/en/latest/)
