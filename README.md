@@ -14,3 +14,5 @@ Packages/requirements:
  - [socks](http://socksipy.sourceforge.net/)
  - [sys](https://docs.python.org/2/library/sys.html)
  - [xvfb](https://pypi.python.org/pypi/xvfbwrapper)
+ - [re]()
+ - [datetime]()
