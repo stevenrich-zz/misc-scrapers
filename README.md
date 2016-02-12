@@ -11,3 +11,6 @@ Packages/requirements:
  - [socket](https://docs.python.org/2/library/socket.html)
  - [socks](http://socksipy.sourceforge.net/)
  - [xvfb](https://pypi.python.org/pypi/xvfbwrapper)
+ - [shutil]()
+ - [sys]()
+ - [os]()
