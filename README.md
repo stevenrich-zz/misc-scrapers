@@ -1,4 +1,6 @@
-# Miscellaneous scrapers
+# Miscellaneous scraperso
+
+I'll move these to their own repositories once they're built out. 
 
 Packages/requirements:
 
