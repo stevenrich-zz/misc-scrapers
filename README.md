@@ -1,4 +1,4 @@
-# Miscellaneous scraperso
+# Miscellaneous scrapers
 
 I'll move these to their own repositories once they're built out. 
 
