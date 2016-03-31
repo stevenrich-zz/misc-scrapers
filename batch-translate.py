@@ -11,7 +11,11 @@ url = "translate.google.com"
 driver = webdriver.Firefox()
 driver.get(url)
 
-#upload document
+#upload documents
+
+#select language
+
+#save to PDF
 
 driver.quit()
 display.stop()
