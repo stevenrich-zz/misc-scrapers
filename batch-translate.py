@@ -4,7 +4,6 @@ import time
 from BeautifulSoup import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
-from pyvirtualdisplay import Display
 import csv
 
 print "Translating documents..."
