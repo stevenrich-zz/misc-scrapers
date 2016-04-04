@@ -20,7 +20,7 @@ with open("files.csv", "rb") as csvfile:
 		filename = row[1]
 		time.sleep(3)
 		fileInput = driver.find_element_by_css_selector("input[type='file']")
-		fileInput.send_keys(str(filepath) + "/" + str(filename))
+		fileInput.send_keys(str(filepath) + "/" + str(filename) + str(".pdf")
 		translate = driver.find_element_by_css_selector("input[type='submit']")
 		translate.click()
 		output = open(str(filepath) + "/" + str(filename) + "_translated.html", "w")
