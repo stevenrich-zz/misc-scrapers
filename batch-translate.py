@@ -11,7 +11,7 @@ print "Translating documents..."
 driver = webdriver.Firefox()
 driver.get("https://translate.google.com/?tr=f&hl=en")
 
-#files.csv has two columns, the filepath and the name of the file
+#files.csv has two columns, the filepath and the name of the file without file extensions
 
 with open("files.csv", "rb") as csvfile:
 	spamreader = csv.reader(csvfile)
