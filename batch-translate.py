@@ -27,6 +27,7 @@ with open("files.csv", "rb") as csvfile:
 		page = driver.page_source
 		soup = BeautifulSoup(page)
 		print >> output, soup.prettify()
+		print "Translated " + str(filename)
 		time.sleep(3)
 		driver.back()
 		
