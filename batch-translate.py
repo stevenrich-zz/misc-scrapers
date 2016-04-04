@@ -1,4 +1,4 @@
-# a script to translate multiple documents using Google translate
+# a script to translate multiple PDF documents using Google translate
 
 import time
 from BeautifulSoup import BeautifulSoup
