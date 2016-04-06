@@ -1,7 +1,5 @@
 # Miscellaneous scrapers
 
-I'll move these to their own repositories once they're built out. 
-
 Packages/requirements:
 
  - [csv](https://docs.python.org/2/library/csv.html)
